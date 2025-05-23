@@ -8,7 +8,7 @@ GitHub 주소: https://github.com/IoT25E
 
 팀원:  
 202035515 김태규(sa090180@gmail.com)  
-202035398 한규상(T1deSEC.gmail.com)  
+202035398 한규상((hksjoe0081.gmail.com)  
 202135599 황성민(sbma0122@naver.com)  
 202334274 김용진(jky8130@gmail.com)  
 
