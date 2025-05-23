@@ -1,4 +1,4 @@
-# Proposal_Presentation
+#  Team E_Proposal
 
 팀명: E조
 
@@ -6,7 +6,11 @@
 
 GitHub 주소: https://github.com/IoT25E/Proposal_Presentation
 
-팀원: 202035515 김태규(sa090180@gmail.com), 202035398 한규상(T1deSEC.gmail.com),202135599 황성민(sbma0122@naver.com), 202334274 김용진(jky8130@gmail.com)
+팀원: 
+202035515 김태규(sa090180@gmail.com)
+202035398 한규상(T1deSEC.gmail.com)
+202135599 황성민(sbma0122@naver.com)
+202334274 김용진(jky8130@gmail.com)
 
 개요:
 
@@ -31,5 +35,5 @@ ClassGuardian은 ESP32를 기반으로 한 통합형 IoT 시스템으로, 침입
 
  - 실시간 원격 알림을 통한 신속한 문제 대응
 
-##Proposal Presentation
+## Proposal Presentation
 https://youtu.be/2FMGPhr_5a4
