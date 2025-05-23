@@ -1,10 +1,10 @@
-#  Team E_Proposal
+#  IOT25_Team E_Proposal
 
 팀명: E조
 
 프로젝트명: ClassGuardian - Iot 기반 스마트 교실 관리 시스템
 
-GitHub 주소: https://github.com/IoT25E/Proposal_Presentation
+GitHub 주소: https://github.com/IoT25E
 
 팀원:  
 202035515 김태규(sa090180@gmail.com)  
